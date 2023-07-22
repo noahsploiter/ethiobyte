@@ -10,7 +10,7 @@ const Proficiency = () => {
       <Container className="section section-lg">
         <Fade bottom duration={2000}>
           <Row>
-            <Col lg="6">
+            {/* <Col lg="6">
               <h1 className="h1">Proficiency</h1>
               {SkillBars.map((skill) => {
                 return (
@@ -31,7 +31,7 @@ const Proficiency = () => {
                   </div>
                 );
               })}
-            </Col>
+            </Col> */}
             <Col lg="6">
               <GreetingLottie animationPath="/lottie/build.json" />
             </Col>

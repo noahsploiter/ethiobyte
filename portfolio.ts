@@ -210,15 +210,15 @@ export const SkillBars: SkillBarsType[] = [
 
 export const educationInfo: EducationType[] = [
   {
-    schoolName: 'Harvard University',
-    subHeader: 'Master of Science in Computer Science',
-    duration: 'September 2017 - April 2019',
-    desc: 'Participated in the research of XXX and published 3 papers.',
-    grade: 'Grade A',
-    descBullets: [
-      'Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit',
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
-    ],
+    schoolName: 'Our Values',
+    subHeader: '',
+    duration: 'Ethibyte',
+    desc: 'At Ethibyte Software, our workflow inhibits transparency in its core. We deeply value the relation we form with our clients and believe that clear communication, in every stage of the development process, is key for a successful partnership. Hence making sure that the output of our work is aligned with the desired solution',
+    // grade: 'Grade A',
+    // descBullets: [
+      // 'Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit',
+      // 'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
+    // ],
   },
 ];
 
@@ -233,7 +233,7 @@ export const experience: ExperienceType[] = [
   {
     role: '',
     company: 'IT CONSULTING',
-    companyLogo: '/img/icons/common/dusecaSoftware.jpg',
+    companyLogo: '/img/icons/common/consultant.png',
     date: '',
     desc: 'ADVICE AND GUADANCE TO ANY KIND OF SOFTWARE PRODUCTS FOR ALL SECTORS',
     // descBullets: [
